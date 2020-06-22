@@ -67,27 +67,29 @@ Tools used by Product Managers, POs and designers.
 ## Readings
 
 ### Books
--
+- [Inspired](https://www.amazon.com.br/Inspired-Create-Tech-Products-Customers/dp/1119387507/)
 
-### Articles
--
+### Good Articles
+- [Why This Opportunity Solution Tree is Changing the Way Product Teams Work](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
 
 ### Posts
--
+- []()
 
 ## Movies
-
-### Short Movies
 
 Comunication
 - [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
 
+Podcasts
+- 
 
 ## Courses
 
 ### International
+Product Manager
+- [Product Masterclass: How to Build Digital Products](https://sso.teachable.com/secure/16192/checkout/1508051/product-masterclass-how-to-build-digital-products)
 
-### Brazilians
+### Locals (Brazilians)
 
 Product Manager
 - [PM3](https://www.cursospm3.com.br/)
