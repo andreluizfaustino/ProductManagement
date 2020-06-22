@@ -76,6 +76,8 @@ Tools used by Product Managers, POs and designers.
 ### Good Articles
 - [Why This Opportunity Solution Tree is Changing the Way Product Teams Work](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
 
+### Blogs and spaces
+- [Product Hero](https://medium.com/product-hero)
 
 
 ## Movies and Podcasts
