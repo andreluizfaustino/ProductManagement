@@ -1,8 +1,11 @@
+
 # Welcome to my Product Management space about
+
+## Tools
 
 Tools used by Product Managers, POs and designers.
 
-## Product Management & Backlog
+### Product Management & Backlog
 - [Pipefy](http://www.pipefy.com)
 - [Pivotal](https://pivotal.io/tracker)
 - [TFS](https://www.visualstudio.com/tfs/)
@@ -18,7 +21,7 @@ Tools used by Product Managers, POs and designers.
 - [GridRankit](https://www.gridrankit.com/)
 - [Productific](https://productific.com/)
 
-## Analytics & Metrics
+### Analytics & Metrics
 - [Keen.io](https://keen.io/)
 - [Google Analytics](https://www.google.com/analytics)
 - [Google Tag Manager](http://tagmanager.google.com/)
@@ -33,7 +36,7 @@ Tools used by Product Managers, POs and designers.
 - [Heap](https://heapanalytics.com/)
 - [Segment](https://segment.com/)
 
-## Roadmap
+### Roadmap
 - [Roadmunk](https://roadmunk.com/)
 - [ProductBoard](https://www.productboard.com/)
 - [Aha!](https://www.aha.io/)
@@ -42,7 +45,7 @@ Tools used by Product Managers, POs and designers.
 - [ProdPad](https://www.prodpad.com/)
 - [Craft](https://craft.io/)
 
-## User/Product Research
+### User/Product Research
 - [Cassete](http://www.cassette.design/)
 - [Lookback](https://lookback.io/)
 - [Alpha](https://alphahq.com/)
@@ -60,6 +63,34 @@ Tools used by Product Managers, POs and designers.
 - [Freshdesk](https://freshdesk.com/)
 - [UXCam](https://uxcam.com/)
 - [Customer.io](https://customer.io/)
+
+
+## Books, Articles, Posts
+
+### Books
+-
+
+### Articles
+-
+
+### Posts
+-
+
+## Short Movies, Webinars, Courses 
+
+### Short Movies
+-
+
+### Webinars
+-
+
+### Courses
+-
+
+
+## Persons of Product Management
+- 
+
 
 ### Support or Contact
 
