@@ -34,7 +34,7 @@ Tools used by Product Managers, POs and designers.
 
 ## Product Management & Backlog
 
-Pipefy
+[Pipefy](www.Pipefy.com)
 Pivotal
 TFS
 Jira
