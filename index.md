@@ -1,6 +1,8 @@
 
 # Welcome to my Product Management space about
 
+
+
 ## Tools
 
 Tools used by Product Managers, POs and designers.
@@ -64,6 +66,8 @@ Tools used by Product Managers, POs and designers.
 - [UXCam](https://uxcam.com/)
 - [Customer.io](https://customer.io/)
 
+
+
 ## Readings
 
 ### Books
@@ -75,14 +79,20 @@ Tools used by Product Managers, POs and designers.
 ### Posts
 - []()
 
+
+
 ## Movies
 
 Comunication
 - [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
 - [Storytelling: A Arte de Contar Histórias Memoráveis](https://www.youtube.com/watch?v=360y-AwaLK4)
 
-Podcasts
+
+
+## Podcasts
 - 
+
+
 
 ## Courses
 
@@ -97,6 +107,8 @@ Product Manager
 - [TERA - Digital Product Leadership](https://somostera.com/cursos/digital-product-leadership)
 - [Product Leadership com Alexandre Spengler](http://spengler.io/cursos/)
 
+
+
 ## Persons of Product Management
 
 ### Authors 
@@ -105,7 +117,9 @@ Product Manager
 ### Teachers and Coaches
 - [Alexandre Spengler](http://spengler.io/about-me/) 
 
-### Support or Contact
+
+
+## Contact
 
 Having an idea or suggestion contact me through these channels.
 
