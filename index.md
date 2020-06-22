@@ -1,8 +1,6 @@
 
 # Welcome to my Product Management space about
 
-## Tools
-
 Tools used by Product Managers, POs and designers.
 
 ### Product Management & Backlog
@@ -64,8 +62,7 @@ Tools used by Product Managers, POs and designers.
 - [UXCam](https://uxcam.com/)
 - [Customer.io](https://customer.io/)
 
-
-## Books, Articles, Posts
+Books, Articles, Posts
 
 ### Books
 -
@@ -76,7 +73,7 @@ Tools used by Product Managers, POs and designers.
 ### Posts
 -
 
-## Short Movies, Webinars, Courses 
+Short Movies, Webinars, Courses 
 
 ### Short Movies
 
@@ -94,8 +91,7 @@ Product Manager
 - [Product Leadership]()
 
 
-## Persons of Product Management
-- 
+Persons of Product Management
 
 
 ### Support or Contact
