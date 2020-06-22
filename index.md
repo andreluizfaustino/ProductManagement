@@ -1,6 +1,8 @@
 
 # Welcome to my Product Management space about
 
+## Tools
+
 Tools used by Product Managers, POs and designers.
 
 ### Product Management & Backlog
@@ -62,7 +64,7 @@ Tools used by Product Managers, POs and designers.
 - [UXCam](https://uxcam.com/)
 - [Customer.io](https://customer.io/)
 
-Books, Articles, Posts
+## Readings
 
 ### Books
 -
@@ -73,7 +75,7 @@ Books, Articles, Posts
 ### Posts
 -
 
-Short Movies, Webinars, Courses 
+## Movies
 
 ### Short Movies
 
@@ -81,18 +83,24 @@ Comunication
 - [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
 
 
-### Webinars
--
+## Courses
 
-### Courses
+### International
+
+### Brazilians
+
 Product Manager
-- [PM3]()
-- [TERA]()
-- [Product Leadership]()
+- [PM3](https://www.cursospm3.com.br/)
+- [TERA - Digital Product Leadership](https://somostera.com/cursos/digital-product-leadership)
+- [Product Leadership com Alexandre Spengler](http://spengler.io/cursos/)
 
+## Persons of Product Management
 
-Persons of Product Management
-
+### Authors 
+- [Marty Caygan](https://www.linkedin.com/in/cagan/)
+ 
+### Teachers and Coaches
+- [Alexandre Spengler](http://spengler.io/about-me/) 
 
 ### Support or Contact
 
