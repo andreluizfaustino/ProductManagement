@@ -1,7 +1,5 @@
 # Welcome to my Product Management space about
 
-# Tools
-
 Tools used by Product Managers, POs and designers.
 
 ## Product Management & Backlog
