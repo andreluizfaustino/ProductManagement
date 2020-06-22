@@ -33,7 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Tools used by Product Managers, POs and designers.
 
 ## Product Management & Backlog
-
 - [Pipefy](http://www.pipefy.com)
 - [Pivotal](http://www.pipefy.com)
 - [TFS](http://www.pipefy.com)
@@ -50,53 +49,48 @@ Tools used by Product Managers, POs and designers.
 - [Productific](http://www.pipefy.com)
 
 ## Analytics & Metrics
-
-Keen.io
-Google Analytics
-Google Tag Manager
-Mixpanel
-Fullstory
-Pendo
-Fabric
-Amplitude
-Kissmetrics
-Prodlytic
-GoodData
-Heap
-Segment
+- Keen.io
+- Google Analytics
+- Google Tag Manager
+- Mixpanel
+- Fullstory
+- Pendo
+- Fabric
+- Amplitude
+- Kissmetrics
+- Prodlytic
+- GoodData
+- Heap
+- Segment
 
 ## Roadmap
-
-Roadmunk
-ProductBoard
-Aha!
-Monday
-ProductPlan
-ProdPad
-Craft
-
+- Roadmunk
+- ProductBoard
+- Aha!
+- Monday
+- ProductPlan
+- ProdPad
+- Craft
 
 ## User/Product Research
-
-Cassete
-Lookback
-Alpha
-User Testing
-Pingpong
-UXCam
-Typeform
-Survey Monkey
-Hotjar
-Google
-Drift
-Peek
-Lookback
-Google Consumer Barometer
-Freshdesk
-UXCam
-Customer.io
-A/B Testing
-
+- Cassete
+- Lookback
+- Alpha
+- User Testing
+- Pingpong
+- UXCam
+- Typeform
+- Survey Monkey
+- Hotjar
+- Google
+- Drift
+- Peek
+- Lookback
+- Google Consumer Barometer
+- Freshdesk
+- UXCam
+- Customer.io
+- A/B Testing
 
 
 ### Support or Contact
