@@ -109,7 +109,7 @@ Product Manager
 
 Having an idea or suggestion contact me through these channels.
 
-linkedin: https://www.linkedin.com/in/andreluizfsantos/
-email: andreluizfsantos@hotmail.com
+- https://www.linkedin.com/in/andreluizfsantos/
+- andreluizfsantos@hotmail.com
 
 Thank you :)
