@@ -5,7 +5,7 @@
 
 ## Tools
 
-Tools used by Product Managers, POs and designers.
+Tools used by Product Managers, POs and Designers.
 
 ### Product Management & Backlog
 - [Pipefy](http://www.pipefy.com)
