@@ -35,19 +35,20 @@ Tools used by Product Managers, POs and designers.
 ## Product Management & Backlog
 
 [Pipefy](http://www.pipefy.com)
-Pivotal
-TFS
-Jira
-Trello
-Asana
-Basecamp
-Airtable
-TargetProcess
-AirFocus
-Craft
-Hygger
-GridRankit
-Productific
+[Pivotal](http://www.pipefy.com)
+[TFS](http://www.pipefy.com)
+[Jira](http://www.pipefy.com)
+[Trello](http://www.pipefy.com)
+[Asana](http://www.pipefy.com)
+[Basecamp](http://www.pipefy.com)
+[Airtable](http://www.pipefy.com)
+[TargetProcess](http://www.pipefy.com)
+[AirFocus](http://www.pipefy.com)
+[Craft](http://www.pipefy.com)
+[Hygger](http://www.pipefy.com)
+[GridRankit](http://www.pipefy.com)
+[Productific](http://www.pipefy.com)
+
 
 ## Analytics & Metrics
 
