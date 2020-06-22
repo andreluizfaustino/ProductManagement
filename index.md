@@ -28,22 +28,74 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Tools
+# Tools
 
 Tools used by Product Managers, POs and designers.
 
 ## Product Management & Backlog
 
-aaaa
+Pipefy
+Pivotal
+TFS
+Jira
+Trello
+Asana
+Basecamp
+Airtable
+TargetProcess
+AirFocus
+Craft
+Hygger
+GridRankit
+Productific
 
 ## Analytics & Metrics
 
-aaaa
+Keen.io
+Google Analytics
+Google Tag Manager
+Mixpanel
+Fullstory
+Pendo
+Fabric
+Amplitude
+Kissmetrics
+Prodlytic
+GoodData
+Heap
+Segment
+
+## Roadmap
+
+Roadmunk
+ProductBoard
+Aha!
+Monday
+ProductPlan
+ProdPad
+Craft
 
 
-### Tools
+## User/Product Research
 
-Tools used by Product Managers, POs and designers.
+Cassete
+Lookback
+Alpha
+User Testing
+Pingpong
+UXCam
+Typeform
+Survey Monkey
+Hotjar
+Google
+Drift
+Peek
+Lookback
+Google Consumer Barometer
+Freshdesk
+UXCam
+Customer.io
+A/B Testing
 
 
 
