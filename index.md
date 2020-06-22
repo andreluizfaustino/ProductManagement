@@ -106,4 +106,9 @@ Product Manager
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having an idea or suggestion contact me through these channels.
+
+linkedin: https://www.linkedin.com/in/andreluizfsantos/
+email: andreluizfsantos@hotmail.com
+
+Thank you. :)
