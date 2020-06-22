@@ -79,13 +79,19 @@ Tools used by Product Managers, POs and designers.
 ## Short Movies, Webinars, Courses 
 
 ### Short Movies
--
+
+Comunication
+- [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
+
 
 ### Webinars
 -
 
 ### Courses
--
+Product Manager
+- [PM3]()
+- [TERA]()
+- [Product Leadership]()
 
 
 ## Persons of Product Management
