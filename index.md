@@ -76,21 +76,16 @@ Tools used by Product Managers, POs and designers.
 ### Good Articles
 - [Why This Opportunity Solution Tree is Changing the Way Product Teams Work](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
 
-### Posts
-- []()
 
 
-
-## Movies
+## Movies and Podcasts
 
 Comunication
 - [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
 - [Storytelling: A Arte de Contar Histórias Memoráveis](https://www.youtube.com/watch?v=360y-AwaLK4)
 
-
-
-## Podcasts
-- 
+Product Discovery
+- [Natalia Arsand fala sobre Product Discovery](https://www.youtube.com/watch?v=wgGYWwGjUv4)
 
 
 
