@@ -79,6 +79,7 @@ Tools used by Product Managers, POs and designers.
 
 Comunication
 - [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=D236cCikGmA)
+- [Storytelling: A Arte de Contar Histórias Memoráveis](https://www.youtube.com/watch?v=360y-AwaLK4)
 
 Podcasts
 - 
@@ -111,4 +112,4 @@ Having an idea or suggestion contact me through these channels.
 linkedin: https://www.linkedin.com/in/andreluizfsantos/
 email: andreluizfsantos@hotmail.com
 
-Thank you. :)
+Thank you :)
