@@ -61,7 +61,7 @@ Tools used by Product Managers, POs and designers.
 - [Drift](https://www.drift.com/)
 - [Peek](https://peek.usertesting.com/)
 - [Lookback](https://lookback.io/)
-- [Google Consumer Barometer](ttps://www.consumerbarometer.com/en/)
+- [Google Consumer Barometer](https://www.consumerbarometer.com/en/)
 - [Freshdesk](https://freshdesk.com/)
 - [UXCam](https://uxcam.com/)
 - [Customer.io](https://customer.io/)
